@@ -1,4 +1,5 @@
-This repository contains details about the data availability and the computational methods developed for the *accepted* manuscript (add link).
+This repository contains details about the data availability and the computational methods developed for Hawkins et al., "Purinergic regulation of vascular tone in the retrotrapezoid nucleus is specialized to support the drive to breathe". eLife, 2017. http://dx.doi.org/10.7554/eLife.46793.
+
 
 
 ## Data
